@@ -1,0 +1,5 @@
+CONSUMER_KEY    = "Please set your key"
+CONSUMER_SECRET = "Please set your key"
+ACCESS_TOKEN        = "Please set your key"
+ACCESS_TOKEN_SECRET = "Please set your key"
+#USER_ID = "Dont use"
